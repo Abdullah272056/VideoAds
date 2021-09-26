@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video Ads</string>
+    // test
+    //admob id
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    //rewards ad id
+    <string name="reward_ads_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    //real
+<!--    <string name="admob_id">ca-app-pub-4398187777888296~6579294839</string>-->
+<!--    <string name="reward_ads_id">ca-app-pub-4398187777888296/3953131496</string>-->
+
+
+
+</resources>
